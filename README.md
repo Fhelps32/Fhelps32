@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Filipe 👋
+# Prazer, eu sou o Filipe Coutinho 👋
 
 ### Desenvolvedor .NET / C# em constante evolução
 

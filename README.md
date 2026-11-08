@@ -28,19 +28,6 @@ com foco em integrações de sistemas, painéis de dados e código organizado.
 | **Front-end de apoio** | Razor, Tailwind CSS, Chart.js, jQuery Validation |
 | **Ferramentas** | Visual Studio, Git/GitHub, Postman |
 
-## 🏛️ Como eu organizo meus projetos
-
-Meus projetos em C# seguem uma separação em camadas inspirada em Clean Architecture / DDD:
-
-```
-Solution
-├── *.Domain          → entidades, enums, regras de negócio
-├── *.Application     → serviços, interfaces, DTOs
-├── *.Infra / *.Data  → EF Core, mappings, migrations, integrações externas
-├── *.CrossCutting    → injeção de dependência e configuração
-└── *.Presentation    → MVC / API (controllers, views, viewmodels)
-```
-
 ## 💡 O que eu consigo fazer hoje
 
 - Criar **aplicações web MVC** e **APIs REST** com ASP.NET Core, documentadas com Swagger
@@ -61,21 +48,9 @@ Estou trabalhando em projetos em C# que ainda são privados. Conforme ficarem pr
 
 ## 🔭 Próximos projetos
 
-- [ ] Publicar o primeiro projeto completo em C# com README, prints e instruções de execução
-- [ ] Adicionar testes automatizados (xUnit) aos projetos
-- [ ] Containerizar uma aplicação com Docker
-- [ ] Pipeline de CI com GitHub Actions
-- [ ] Explorar Minimal APIs, CQRS e MediatR
-
-## 🌐 Outros projetos públicos
-
-Também tenho projetos em JavaScript/TypeScript no meu GitHub:
-
-- [Otaviano-Transportes](https://github.com/Fhelps32/Otaviano-Transportes) — TypeScript
-- [RioVivo](https://github.com/Fhelps32/RioVivo) — JavaScript
-- [Gaias-Bolsas](https://github.com/Fhelps32/Gaias-Bolsas) — JavaScript
-- [mateiraSite](https://github.com/Fhelps32/mateiraSite) — JavaScript
-- [TeoriaMusical](https://github.com/Fhelps32/TeoriaMusical)
+- [ ] Publicar PSGN (projeto de integração da Pós-Graduação da faculdade UGB)
+- [ ] Inicializar o projeto AfterFrame
+- [ ] Dar continuidade ao meu projeto "TeoriaMusical"
 
 ## 📈 GitHub
 
@@ -92,7 +67,5 @@ Também tenho projetos em JavaScript/TypeScript no meu GitHub:
 - GitHub: [@Fhelps32](https://github.com/Fhelps32)
 
 <div align="center">
-
-*Aprendendo, construindo e melhorando um commit de cada vez.*
 
 </div>
